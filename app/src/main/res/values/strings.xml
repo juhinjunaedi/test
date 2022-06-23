@@ -3,4 +3,15 @@
     <string name="nama">Nama</string>
     <string name="data_pemain_mancester_united">Data Pemain Mancester United</string>
     <string name="data_pemain_rrq">Data Pemain RRQ</string>
+    <string name="data_pribadi">Data Pribadi</string>
+    <string name="name">Nama :</string>
+    <string name="albert">Albert</string>
+    <string name="posisi">Posisi</string>
+    <string name="jungler">Jungler</string>
+    <string name="tempat_lahir">Tempat Lahir</string>
+    <string name="bali">Bali</string>
+    <string name="tanggal_lahir">Tanggal Lahir</string>
+    <string name="_8_januari_2004">8 Januari 2004</string>
+    <string name="close">Close</string>
+
 </resources>
