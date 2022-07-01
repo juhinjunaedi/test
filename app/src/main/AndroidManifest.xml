@@ -5,13 +5,22 @@
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
-        android:label="@string/app_name"
+        android:label="RecyclerView"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.RecyclerView">
         <activity
+            android:name=".Profile"
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar" >
+
+
+
+        </activity>
+        <activity
             android:name=".SplashScreen"
-            android:exported="true" >
+            android:exported="true"
+            android:theme="@style/Theme.AppCompat.DayNight.NoActionBar">
 
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
